@@ -1,4 +1,4 @@
-def eprimo(num):
+def prim(num):
     if num < 2:
         return False
     if num == 2:
