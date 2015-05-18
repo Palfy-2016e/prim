@@ -1,5 +1,3 @@
-# prim
-Döntsük el egy számról, hogy prím-e! Írjunk függvényt
 def primszam(num):
     if num < 2:
         return False
