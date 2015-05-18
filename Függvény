@@ -8,4 +8,3 @@ def primszam(x):
             if x % y == 0:
                 return False
         return True
- báá
